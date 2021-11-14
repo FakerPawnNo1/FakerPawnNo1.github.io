@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fakerpawnno1.github.io/sitemap.xml
